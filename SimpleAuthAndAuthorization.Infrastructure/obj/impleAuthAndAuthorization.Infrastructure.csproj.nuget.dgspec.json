@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization.API/impleAuthAndAuthorization.Infrastructure/impleAuthAndAuthorization.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization.API/SimpleAuthAndAuthorization.Core/SimpleAuthAndAuthorization.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization.API/SimpleAuthAndAuthorization.Core/SimpleAuthAndAuthorization.Core.csproj",
+        "projectName": "SimpleAuthAndAuthorization.Core",
+        "projectPath": "/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization.API/SimpleAuthAndAuthorization.Core/SimpleAuthAndAuthorization.Core.csproj",
+        "packagesPath": "/home/nikolay/.nuget/packages/",
+        "outputPath": "/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization.API/SimpleAuthAndAuthorization.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/nikolay/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization.API/impleAuthAndAuthorization.Infrastructure/impleAuthAndAuthorization.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization.API/impleAuthAndAuthorization.Infrastructure/impleAuthAndAuthorization.Infrastructure.csproj",
+        "projectName": "impleAuthAndAuthorization.Infrastructure",
+        "projectPath": "/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization.API/impleAuthAndAuthorization.Infrastructure/impleAuthAndAuthorization.Infrastructure.csproj",
+        "packagesPath": "/home/nikolay/.nuget/packages/",
+        "outputPath": "/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization.API/impleAuthAndAuthorization.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/nikolay/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization.API/SimpleAuthAndAuthorization.Core/SimpleAuthAndAuthorization.Core.csproj": {
+                "projectPath": "/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization.API/SimpleAuthAndAuthorization.Core/SimpleAuthAndAuthorization.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

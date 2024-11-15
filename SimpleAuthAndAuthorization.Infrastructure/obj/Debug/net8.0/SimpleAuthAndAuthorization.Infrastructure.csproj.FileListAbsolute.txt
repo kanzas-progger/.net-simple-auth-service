@@ -1,0 +1,17 @@
+/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization/SimpleAuthAndAuthorization.Infrastructure/obj/Debug/net8.0/SimpleAuthAndAuthorization.Infrastructure.csproj.AssemblyReference.cache
+/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization/SimpleAuthAndAuthorization.Infrastructure/obj/Debug/net8.0/SimpleAuthAndAuthorization.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization/SimpleAuthAndAuthorization.Infrastructure/obj/Debug/net8.0/SimpleAuthAndAuthorization.Infrastructure.AssemblyInfoInputs.cache
+/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization/SimpleAuthAndAuthorization.Infrastructure/obj/Debug/net8.0/SimpleAuthAndAuthorization.Infrastructure.AssemblyInfo.cs
+/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization/SimpleAuthAndAuthorization.Infrastructure/obj/Debug/net8.0/SimpleAuthAndAuthorization.Infrastructure.csproj.CoreCompileInputs.cache
+/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization/SimpleAuthAndAuthorization.Infrastructure/bin/Debug/net8.0/SimpleAuthAndAuthorization.Infrastructure.deps.json
+/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization/SimpleAuthAndAuthorization.Infrastructure/bin/Debug/net8.0/SimpleAuthAndAuthorization.Infrastructure.runtimeconfig.json
+/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization/SimpleAuthAndAuthorization.Infrastructure/bin/Debug/net8.0/SimpleAuthAndAuthorization.Infrastructure.dll
+/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization/SimpleAuthAndAuthorization.Infrastructure/bin/Debug/net8.0/SimpleAuthAndAuthorization.Infrastructure.pdb
+/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization/SimpleAuthAndAuthorization.Infrastructure/bin/Debug/net8.0/SimpleAuthAndAuthorization.Core.dll
+/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization/SimpleAuthAndAuthorization.Infrastructure/bin/Debug/net8.0/SimpleAuthAndAuthorization.Core.pdb
+/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization/SimpleAuthAndAuthorization.Infrastructure/obj/Debug/net8.0/SimpleAuthAndAuthorization.Infrastructure.csproj.CopyComplete
+/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization/SimpleAuthAndAuthorization.Infrastructure/obj/Debug/net8.0/SimpleAuthAndAuthorization.Infrastructure.dll
+/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization/SimpleAuthAndAuthorization.Infrastructure/obj/Debug/net8.0/refint/SimpleAuthAndAuthorization.Infrastructure.dll
+/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization/SimpleAuthAndAuthorization.Infrastructure/obj/Debug/net8.0/SimpleAuthAndAuthorization.Infrastructure.pdb
+/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization/SimpleAuthAndAuthorization.Infrastructure/obj/Debug/net8.0/SimpleAuthAndAuthorization.Infrastructure.genruntimeconfig.cache
+/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization/SimpleAuthAndAuthorization.Infrastructure/obj/Debug/net8.0/ref/SimpleAuthAndAuthorization.Infrastructure.dll

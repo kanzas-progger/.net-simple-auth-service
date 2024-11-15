@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RrUQeUhOGxwucnGVBYq6cPmnflO45eBuga4DdBvBE8U=",
+  "Source": "SimpleAuthAndAuthorization.API",
+  "BasePath": "_content/SimpleAuthAndAuthorization.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

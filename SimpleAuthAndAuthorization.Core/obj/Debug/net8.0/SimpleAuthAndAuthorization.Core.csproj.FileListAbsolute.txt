@@ -1,0 +1,11 @@
+/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization/SimpleAuthAndAuthorization.Core/bin/Debug/net8.0/SimpleAuthAndAuthorization.Core.deps.json
+/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization/SimpleAuthAndAuthorization.Core/bin/Debug/net8.0/SimpleAuthAndAuthorization.Core.dll
+/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization/SimpleAuthAndAuthorization.Core/bin/Debug/net8.0/SimpleAuthAndAuthorization.Core.pdb
+/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization/SimpleAuthAndAuthorization.Core/obj/Debug/net8.0/SimpleAuthAndAuthorization.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization/SimpleAuthAndAuthorization.Core/obj/Debug/net8.0/SimpleAuthAndAuthorization.Core.AssemblyInfoInputs.cache
+/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization/SimpleAuthAndAuthorization.Core/obj/Debug/net8.0/SimpleAuthAndAuthorization.Core.AssemblyInfo.cs
+/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization/SimpleAuthAndAuthorization.Core/obj/Debug/net8.0/SimpleAuthAndAuthorization.Core.csproj.CoreCompileInputs.cache
+/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization/SimpleAuthAndAuthorization.Core/obj/Debug/net8.0/SimpleAuthAndAuthorization.Core.dll
+/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization/SimpleAuthAndAuthorization.Core/obj/Debug/net8.0/refint/SimpleAuthAndAuthorization.Core.dll
+/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization/SimpleAuthAndAuthorization.Core/obj/Debug/net8.0/SimpleAuthAndAuthorization.Core.pdb
+/home/nikolay/PET PROJECTS/SimpleAuthAndAuthorization/SimpleAuthAndAuthorization.Core/obj/Debug/net8.0/ref/SimpleAuthAndAuthorization.Core.dll
